@@ -4,7 +4,7 @@ Welcome to [ThinManager®](http://www.thinmanager.com/), a content delivery and 
 
 ThinManager balances the responsibilities between IT and OT for industrial facilities. ThinManager automatically syncs with Active Directory giving IT full control over network authentication and access. ThinManager, in turn, allows OT to manage authorization to devices and content used in industrial production environments. 
 
-ThinManager supports hundreds of thin client devices from a variety of hardware vendors including Allen-Bradley. ThinManager also supports the use of IP cameras, smart card readers, biometric devices and mobile tablets. ThinManager provides a configuration wizard that provides a simple way to click and configure any asset managed by ThinManager. Whether you manage a single facility or a global enterprise, ThinManager easily scales to accomodate virtually any typw of industrial environment. Combined with the right industrial hardware, ThinManager can help provide a longer, more sustainable hardware life cycle.
+ThinManager supports hundreds of thin client devices from a variety of hardware vendors including Allen-Bradley. ThinManager also supports the use of IP cameras, smart card readers, biometric devices and mobile tablets. ThinManager provides a configuration wizard that allows administrators to simply "click and configure" any asset managed by ThinManager. Whether you manage a single facility or a global enterprise, ThinManager easily scales to accomodate virtually any type of industrial environment. Combined with the right industrial hardware, ThinManager can help provide a longer, more sustainable hardware life cycle as well.
 
 ## General information
 
