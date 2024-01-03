@@ -1,10 +1,10 @@
 # Welcome to ThinManager® organization!
 
-Welcome to [ThinManager®](http://www.thinmanager.com/), a new visualization platform that accelerates value delivery with modern technologies, innovative designs and scalable deployment options.
+Welcome to [ThinManager®](http://www.thinmanager.com/), a content delivery and thin client management software solution that manages access to HMIs and other industrial-focused productivity content. ThinManager can securely deliver applications to devices like thin clients, industrial PCs, and mobile tablets. ThinManager also delivers content to users based on their their role, location, or based on events that trigger notifications, etc.
 
-[ThinManager®](http://www.thinmanager.com/) can help improve your process, efficiency and deliverables – in one easy-to-access tool.  Take advantage of new levels of collaboration, scalability and interoperability to achieve your HMI vision.
+ThinManager balances the responsibilities between IT and OT for industrial facilities. ThinManager automatically syncs with Active Directory giving IT full control over network authentication and access. ThinManager, in turn, allows OT to manage authorization to devices and content used in industrial production environments. 
 
-New SaaS-enabled workflows will enable your team to collaborate any time, from anywhere, thanks to built-in change tracking and versioning that automatically keeps track of who did what and when.
+ThinManager supports hundreds of thin client devices from a variety of hardware vendors including Allen-Bradley. ThinManager also supports the use of IP cameras, smart card readers, biometric devices and mobile tablets. ThinManager provides a configuration wizard that provides a simple way to click and configure any asset managed by ThinManager. Whether you manage a single facility or a global enterprise, ThinManager easily scales to accomodate virtually any typw of industrial environment. Combined with the right industrial hardware, ThinManager can help provide a longer, more sustainable hardware life cycle.
 
 ## General information
 
