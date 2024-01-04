@@ -10,7 +10,7 @@ Whether you manage a single facility or a global enterprise, ThinManager easily 
 
 ## General information
 
-This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [ThinManager®](http://www.thinmanager.com/), feel free to clone these repositories in [ThinManager®](http://www.thinmanager.com/) IDE and test them!
+This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [ThinManager®](http://www.thinmanager.com/), feel free to clone these repositories, use your favorite IDE (like Microsoft [Visual Studio Code](https://code.visualstudio.com/), and test them.
 
 ### Disclaimer
 
@@ -20,37 +20,25 @@ The examples provided are to be used as a reference for building your own applic
 
 ### Definitions:
 
-`Demo` is an application that shows the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
+`Demo` is an application that shows the high-level functionality of ThinManager. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of ThinManager application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
 
 `Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how they work. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
 
-Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the demo or sample. 
+Read through the entire ReadMe file to determine what additional ThinManager applications or settings may be needed to ensure the proper emulation of the demo or sample. 
 
 ## How to use these repositories
 
-### ThinManager® IDE version
+### ThinManager® Supporting Software Versions
 
-Sample projects are typically developed on the latest available stable release unless a specific version is set in the README file
+Sample projects are typically developed using the latest available stable release of Visual Studio Code, PowerShell, and/or Ubuntu Linux unless a specific version is set in the README file.
 
 ### How to get ThinManager®
 
-1. Create an account at [FactoryTalk® Hub](https://home.cloud.rockwellautomation.com/) website
-2. Create (or join) an organization
-3. Click on the ThinManager® tile and either use the WebIDE or download the desktop IDE
+Downloads for the latest and greatest ThinManager software can be found on the [ThinManager Downloads Website](https://downloads.thinmanager.com/). 
 
 You can also get in touch with your local Rockwell Automation distributor
 
 ### How to clone the repositories
-
-#### Cloning in ThinManager®
-
-1. Open any repository you like
-1. Click on the green `CODE` button in the top right corner
-1. Select `HTTPS` and copy the provided URL
-1. Open ThinManager® IDE
-1. Click on `Open` and select the `Remote` tab
-1. Paste the HTTPS URL from step 2
-1. Click `Open` button in the bottom right corner to start the cloning process
 
 #### Downloading ZIP file
 
@@ -62,7 +50,7 @@ Please note: using this technique you won't be notified in the IDE when the GitH
 
 ## Additional resources
 
-- [First steps with ThinManager® on YouTube](https://www.youtube.com/playlist?list=PL3K_BigUXJ1M1-JpRiwIIhzJUbhwtK3yy)
+- [ThinManager® on YouTube](https://www.youtube.com/@ThinManager)
 - [ThinManager® website](http://www.thinmanager.com/)
 - [Rockwell Automation YouTube](https://www.youtube.com/@RockwellautomationInc)
 - [Rockwell Automation Website](https://www.rockwellautomation.com/)
