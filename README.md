@@ -10,13 +10,19 @@ Whether you manage a single facility or a global enterprise, ThinManager easily 
 
 ## General information
 
-This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [ThinManager®](http://www.thinmanager.com/), feel free to clone these repositories, use your favorite IDE (like Microsoft [Visual Studio Code](https://code.visualstudio.com/), and test them.
+This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [ThinManager®](http://www.thinmanager.com/), feel free to clone these repositories, use your favorite IDE (like Microsoft [Visual Studio Code](https://code.visualstudio.com/)), and test them.
 
 ### Disclaimer
 
 Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
 
 The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example for the purpose, observing the highest safety standards.
+
+The following list, while not inclusive, are pieces of software that require a paid license or subcription to run in production:
+- ThinManager
+- ThinManager Logix PinPoint
+- FactoryTalk Optix
+- FactoryTalk View SE
 
 ### Definitions:
 
