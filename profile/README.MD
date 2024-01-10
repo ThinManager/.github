@@ -21,8 +21,8 @@ The examples provided are to be used as a reference for building your own applic
 The following list, while not inclusive, are pieces of software that require a paid license or subcription to run in production:
 - ThinManager
 - ThinManager Logix PinPoint
-- FactoryTalk Optix
-- FactoryTalk View SE
+- FactoryTalk® Optix
+- FactoryTalk® View SE
 
 ### Definitions:
 
