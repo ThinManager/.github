@@ -1,4 +1,4 @@
-# Welcome to ThinManager® organization!
+# Welcome to ThinManager® GitHub Organization!
 
 Welcome to [ThinManager®](http://www.thinmanager.com/), a content delivery and thin client management software solution that manages access to HMIs and other industrial-focused productivity content. ThinManager can securely deliver applications to devices like thin clients, industrial PCs, and mobile tablets. ThinManager also delivers content to users based on their their role, location, or based on events that trigger notifications, etc.
 
